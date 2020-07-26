@@ -13,46 +13,48 @@
         <v-img src="../assets/1_00_0718_8.svg"></v-img>       
     </v-col>
     </v-row>
-      <v-row style="margin-top:20%;" justify="center">
-        <v-col cols="10">
-        <v-col cols="6" style="float:left;">
+      <v-row style="margin-top:20%;">
+ 　　　<v-col cols="12">
+        <v-col cols="5">
       <h3>ABOUT</h3>
-       <h1 style="margin-bottom:10%;">テクノロジーを通じて<br>要望を叶える + 感動を与える</h1>
-               <span  style="font-size:14px;"> 
+       <h1 style="padding-top:2%;">テクノロジーを通じて<br>要望を叶える + 感動を与える</h1>
+               <v-col  style="font-size:14px;"> 
        BPIは受託事業をはじめ、依頼いただいてるお客様に、
        デザイン、プログラミング 、サーバー構築など、あらゆるものづくりの分野で問題・課題が解決できるご提案をさせていただいております。
        <span style="display:block;
-       position:absolute;
     height: 50px;
     text-align: center;
     border-radius: 40px;
     border: solid 1px #999;
     line-height: 30px;
     margin-top: 50px;padding: 10px 50px;">contact me</span>
-       </span> 
+       </v-col> 
         </v-col>
         
-        <v-col  cols="6" style="margin-top:15%;float:left;">
+        <v-col  cols="5" style="margin-top:15%;">
           <v-img src="../assets/service_1.png"></v-img>
         </v-col>
-  
-   </v-col>
+        </v-col>
+   
 
-       <v-col cols="10">
+       <v-col cols="12" style="padding-top:5%;">
          <v-row  justify="center" class="text-center">
-          <v-col cols="4" style="padding:5%;">
+          <v-col cols="3" style="padding:5%;">
+            <h2 style="padding-bottom:10px;">1</h2>
            <v-img src="../assets/service_2.png"></v-img>
            <h4 style="padding-bottom:20px;">受託制作事業</h4>
            <span style="font-size:14px;line-height:16px;">チラシ、ロゴ、HP制作、システム開発などクリエイティブの分野で制作いたします。</span>
            
            </v-col>
-            <v-col cols="4" style="padding:5%;">
+            <v-col cols="3" style="padding:5%;">
+            <h2 style="padding-bottom:10px;">2</h2>
            <v-img src="../assets/service_3.png"></v-img>
            <h4 style="padding-bottom:20px;">SES事業</h4>
            <span style="font-size:14px;line-height:16px;">デザインやプログラミングスキルを通じて、お客様プロジェクトをお手伝いしします。</span>
        
            </v-col>
-            <v-col cols="4" style="padding:5%;">
+            <v-col cols="3" style="padding:5%;">
+               <h2 style="padding-bottom:10px;">3</h2>
            <v-img src="../assets/service_4.png"></v-img>
            <h4 style="padding-bottom:20px;">電気工事業</h4>
            <span style="font-size:14px;line-height:16px;">LAN、照明、テレビアンテナなど、弱電工事を承ります。</span>

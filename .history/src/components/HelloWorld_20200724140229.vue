@@ -38,21 +38,24 @@
   
    </v-col>
 
-       <v-col cols="10">
+       <v-col cols="12" style="padding-top:5%;">
          <v-row  justify="center" class="text-center">
-          <v-col cols="4" style="padding:5%;">
+          <v-col cols="3" style="padding:5%;">
+            <h2 style="padding-bottom:10px;">1</h2>
            <v-img src="../assets/service_2.png"></v-img>
            <h4 style="padding-bottom:20px;">受託制作事業</h4>
            <span style="font-size:14px;line-height:16px;">チラシ、ロゴ、HP制作、システム開発などクリエイティブの分野で制作いたします。</span>
            
            </v-col>
-            <v-col cols="4" style="padding:5%;">
+            <v-col cols="3" style="padding:5%;">
+            <h2 style="padding-bottom:10px;">2</h2>
            <v-img src="../assets/service_3.png"></v-img>
            <h4 style="padding-bottom:20px;">SES事業</h4>
            <span style="font-size:14px;line-height:16px;">デザインやプログラミングスキルを通じて、お客様プロジェクトをお手伝いしします。</span>
        
            </v-col>
-            <v-col cols="4" style="padding:5%;">
+            <v-col cols="3" style="padding:5%;">
+               <h2 style="padding-bottom:10px;">3</h2>
            <v-img src="../assets/service_4.png"></v-img>
            <h4 style="padding-bottom:20px;">電気工事業</h4>
            <span style="font-size:14px;line-height:16px;">LAN、照明、テレビアンテナなど、弱電工事を承ります。</span>

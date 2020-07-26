@@ -38,7 +38,7 @@
   
    </v-col>
 
-       <v-col cols="10">
+       <v-col cols="10" style="padding-top:5%;">
          <v-row  justify="center" class="text-center">
           <v-col cols="4" style="padding:5%;">
            <v-img src="../assets/service_2.png"></v-img>
